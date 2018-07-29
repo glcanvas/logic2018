@@ -1,0 +1,5 @@
+package parser;
+
+public enum TYPE {
+    IMPLICATION, CONJUCTION, DISJUNCTION, NEGATE, VARIABLE
+}
